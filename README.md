@@ -1,4 +1,4 @@
-# SAP1 Computer Design Project
+# SAP-1 Computer ALU Design Project
 
 
 Welcome to the SAP1(simple As Possible 1) Computer Project repository! This project was developed as part of the CO221 (Degital Design) course at Department of Computer Engineering - University of Peradeniya. The SAP1 computer is a minimalist computer architecture designed to introduce students to the fundamentals of digital logic and computer organization.
