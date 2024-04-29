@@ -8,9 +8,9 @@ Welcome to the SAP1 (Simple As Possible 1) Computer ALU Design Project repositor
 This repository contains all the necessary files, documentation, and code for building and simulating the SAP1 computer - ALU Module. 
 
 ### Contributors
-- HATHTHELLA H.A.D.T.N.
-- HEWAWASAM A.K.L.
-- JANAKANTHA S.M.B.G.
+- Janakantha S.M.B.G.
+- Haththella H.A.D.T.N.
+- Hewawasam A.K.L.
 
 ### Supervisor
 - Dr. Kamalanath Samarakoon
